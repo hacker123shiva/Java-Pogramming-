@@ -1,6 +1,7 @@
 // letter B
 public class letterB {
 //This is concept taught is iNeuron
+	//help from GLA
 	public static void main(String[] args) {
 		int n=7;
 		int i,j;
